@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dan Hooper
-- 👀 I’m interested in Web Development and Game Development
+- 👀 I’m interested in Web Development
 
 
 <!---
